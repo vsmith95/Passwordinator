@@ -6,3 +6,6 @@ The idea of the project is to be a simple password generator but for me the stru
 Frankly I think I just drasticly over thought a lot of things and maybe had my toes in too many varied resources and helped myself into a corner of confusion on this one. 
 ![image](https://user-images.githubusercontent.com/97266465/158079661-e22edba4-5f76-4e0c-a780-a3f444871c93.png)
 
+screen shot below of the issue I mentioned in the project submission 
+
+![image](https://user-images.githubusercontent.com/97266465/158080118-b858444c-8e9f-4dad-b33d-104f3b45eeaa.png)
